@@ -1,0 +1,12 @@
+# Source documents stay local: copyright and personal material.
+# Only the source overview is published.
+sources/*
+!sources/overview.md
+
+# Images and design files (rights not cleared, personal photos)
+Images/
+
+# System and editor files
+.DS_Store
+~$*
+*.code-workspace
