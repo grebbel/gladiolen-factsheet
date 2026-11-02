@@ -1,7 +1,6 @@
 # Source documents stay local: copyright and personal material.
-# Only the source overview is published.
+# The source overview lives in notes/source-overview.md.
 sources/*
-!sources/overview.md
 
 # Images and design files (rights not cleared, personal photos)
 Images/

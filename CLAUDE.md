@@ -4,12 +4,12 @@ Standing instructions for this project. Read `PRD.md` first for scope, audience 
 
 ## Project
 
-Evidence-based factsheet on pesticide use in gladiolus cultivation in the Netherlands, and its environmental and health impacts. Audience: policymakers and the general public. Output: static site in `docs/` for GitHub Pages.
+Evidence-based factsheet on pesticide use in gladiolus cultivation in the Netherlands, and its environmental and health impacts. Audience: policymakers and the general public. Output: static site in `docs/` for GitHub Pages. Focus of sources is from 2010 onwards. 
 
 ## Folder layout
 
-- `sources/`: original PDFs and link files (read-only; never edit)
-- `notes/`: one markdown note per source, plus `synthesis.md`
+- `sources/`: original documents only (PDFs and link files; read-only, never edit)
+- `notes/`: `source-overview.md` (the source list), one markdown note per source, plus `synthesis.md`
 - `docs/`: the website (`index.html`, `style.css`)
 - `PRD.md`: requirements
 
@@ -27,12 +27,18 @@ Evidence-based factsheet on pesticide use in gladiolus cultivation in the Nether
 ## Note template (`notes/<author-year-short-title>.md`)
 
 ```
-# <Full title>
-- Authors / organisation:
-- Year:
-- Type: peer-reviewed / report / regulatory decision / dataset
-- Link or file: 
-- Relevance to research questions (1-5):
+---
+title: "<Full title>"
+authors: "<Authors / organisation>"
+year: <YYYY>
+type: peer-reviewed | report | regulatory-decision | dataset
+source: "<URL, or path to file in sources/>"
+relevance: <1-5>
+tags:
+  - type/<type>
+  - substance/<substance-name>
+  - topic/<topic>
+---
 
 ## Key findings
 (bullets, each with page/table reference)
@@ -45,11 +51,23 @@ Evidence-based factsheet on pesticide use in gladiolus cultivation in the Nether
 
 ## Quality flags
 (e.g. small sample, not NL-specific, old data)
+
+## Related notes
+(wikilinks to notes on the same substance or topic, and to sources that agree or disagree, e.g. [[smith-2018-bulb-residues]])
 ```
+
+Template rules (keep notes compatible with Quartz/Obsidian):
+
+- The frontmatter holds the metadata; do not repeat the title as a `#` heading in the body.
+- Use `year`, not `date`. Quartz reads `date` as the date of the page itself.
+- Tags are lowercase, with hyphens instead of spaces, grouped by prefix (`type/`, `substance/`, `topic/`). Use one spelling per substance across all notes.
+- Link between notes with `[[file-name]]` (no `.md`). Use plain Markdown links for `sources/` and external URLs.
+- `synthesis.md` links to each note it draws on with `[[...]]`.
 
 ## Writing style
 
 - Plain language first; explain technical terms on first use
+- Spelling is UK English 
 - Neutral, factual tone; no advocacy
 - Short sentences, active voice
 - Dutch place and organisation names in their original form
@@ -60,6 +78,7 @@ Evidence-based factsheet on pesticide use in gladiolus cultivation in the Nether
 - Semantic headings, alt text, good contrast, responsive layout
 - Show "last updated" date
 - Check that all reference links resolve before finishing
+- the page states it is an independent personal investigation licensed CC BY 4.0.
 
 ## Working rules
 

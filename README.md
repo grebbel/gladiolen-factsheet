@@ -8,7 +8,7 @@ Website: <https://grebbel.github.io/gladiolen-factsheet/>
 
 - [PRD.md](PRD.md): scope, audience, research questions and deliverable
 - [CLAUDE.md](CLAUDE.md): evidence rules and working method
-- [sources/overview.md](sources/overview.md): list of sources with links (the PDFs themselves are not published)
+- [notes/source-overview.md](notes/source-overview.md): list of sources with links (the PDFs themselves are not published)
 - [notes/](notes/): one extraction note per source, plus the synthesis (in progress)
 - [docs/](docs/): the website, served by GitHub Pages
 

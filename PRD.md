@@ -14,7 +14,7 @@ Design consequence: a **plain-language summary at the top**, with progressively 
 ## 3. Scope
 
 **In scope**
-- Gladiolus cultivation in the Netherlands (cut flowers and bulb/corm production)
+- Gladiolus cultivation in the Netherlands (cut flowers and bulb/corm production) in Hectare per year.
 - Pesticide use: which active substances are used or authorised, for which pests and diseases, how and how much (where data exist)
 - Environmental impacts: surface water, soil, non-target organisms (e.g. pollinators, aquatic life)
 - Human-health impacts: occupational exposure, residents/bystanders, and consumers where relevant
@@ -27,11 +27,13 @@ Design consequence: a **plain-language summary at the top**, with progressively 
 
 ## 4. Research questions
 
-1. What pesticides are used on gladiolus in the Netherlands, and how much?
-2. What do monitoring data and studies show about environmental effects (water, soil, non-target species)?
-3. What is known about health effects and exposure for workers, residents and consumers?
-4. What regulations apply, and how are they enforced?
-5. Where is the evidence thin, conflicting or absent?
+1. What area size in hectares is cultivated with Gladioli in the Netherlands?
+2. Are Gladioli bulbs and cut flowers imported to the Netherlands? If yes, how much? 
+3. What pesticides are used on gladiolus in the Netherlands, and how much?
+4. What do monitoring data and studies show about environmental effects (water, soil, non-target species)?
+5. What is known about health effects and exposure for workers, residents and consumers?
+6. What regulations apply, and how are they enforced?
+7. Where is the evidence thin, conflicting or absent?
 
 ## 5. Source requirements
 
@@ -84,7 +86,7 @@ A static website in `docs/`, served by GitHub Pages.
 
 ## 9. Open questions
 
-- Language: English only, or also Dutch?
-- Which year range should the data cover?
-- Should the factsheet carry an institutional affiliation or disclaimer?
-- Licence for the page content (e.g. CC BY 4.0)?
+- Language: English only, or also Dutch? -> Working language is English (UK)
+- Which year range should the data cover? Let's start from 2010, although relevant historical data should not be ignored. 
+- Should the factsheet carry an institutional affiliation or disclaimer? The factsheet should not carry a affilitation. It's a personal investigation.
+- Licence for the page content (e.g. CC BY 4.0)? CC BY 4.0 is affirmative. 
