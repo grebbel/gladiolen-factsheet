@@ -4,7 +4,7 @@ Standing instructions for this project. Read `PRD.md` first for scope, audience 
 
 ## Project
 
-Evidence-based factsheet on pesticide use in gladiolus cultivation in the Netherlands, and its environmental and health impacts. Audience: policymakers and the general public. Output: static site in `docs/` for GitHub Pages. Focus of sources is from 2010 onwards. 
+Evidence-based factsheet on pesticide use in gladiolus cultivation in the Netherlands, and its environmental and health impacts. Because gladiolus-specific data are scarce, related crops in the iris family (Iridaceae: iris, freesia, crocus and others) are included as context; always label which crop a finding is about, and keep open-field and greenhouse findings apart. Audience: policymakers and the general public. Output: static site in `docs/` for GitHub Pages. Focus of sources is from 2010 onwards.
 
 ## Folder layout
 

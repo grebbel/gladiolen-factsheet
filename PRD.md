@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-Produce an evidence-based factsheet on pesticide use in gladiolus (*Gladiolus*) cultivation in the Netherlands, and on its environmental and human-health impacts. The factsheet is published as a static GitHub Pages website.
+Produce an evidence-based factsheet on pesticide use in flowers belonging to the iris family (*Iridaceae*) cultivation in the Netherlands, and on its environmental and human-health impacts. The factsheet is published as a static GitHub Pages website. The iris family includes gladiolus (*Gladiolus*) flowers. However, very limited data exists on gladiolus specifically. Hence, a more broader search is conducted for flowers belonging to the iris family. 
 
 ## 2. Audience
 
@@ -14,7 +14,10 @@ Design consequence: a **plain-language summary at the top**, with progressively 
 ## 3. Scope
 
 **In scope**
-- Gladiolus cultivation in the Netherlands (cut flowers and bulb/corm production) in Hectare per year.
+- Iridaceae cultivation in the Netherlands (cut flowers and bulb/corm production) in Hectare per year.
+  - Genera: gladiolus, iris, freesia, crocus, and any other Iridaceae genus that appears in Dutch statistics.
+  - Framing: gladiolus is the focus; data on other Iridaceae fill gaps and are clearly labelled as related crops.
+  - Open-field and greenhouse cultivation are both covered, but reported separately.
 - Pesticide use: which active substances are used or authorised, for which pests and diseases, how and how much (where data exist)
 - Environmental impacts: surface water, soil, non-target organisms (e.g. pollinators, aquatic life)
 - Human-health impacts: occupational exposure, residents/bystanders, and consumers where relevant
@@ -27,9 +30,9 @@ Design consequence: a **plain-language summary at the top**, with progressively 
 
 ## 4. Research questions
 
-1. What area size in hectares is cultivated with Gladioli in the Netherlands?
-2. Are Gladioli bulbs and cut flowers imported to the Netherlands? If yes, how much? 
-3. What pesticides are used on gladiolus in the Netherlands, and how much?
+1. What area size in hectares is cultivated with Iridaceae in the Netherlands?
+2. Are Iridaceae bulbs and cut flowers imported to the Netherlands? If yes, how much?
+3. What pesticides are used on Iridaceae cultivation in the Netherlands, and how much?
 4. What do monitoring data and studies show about environmental effects (water, soil, non-target species)?
 5. What is known about health effects and exposure for workers, residents and consumers?
 6. What regulations apply, and how are they enforced?
@@ -58,7 +61,7 @@ A static website in `docs/`, served by GitHub Pages.
 **Page structure**
 1. Title and one-paragraph plain-language summary
 2. Key findings (5 to 8 short points)
-3. Gladiolus cultivation in the Netherlands (context)
+3. Gladiolus and related Iridaceae cultivation in the Netherlands (context)
 4. Pesticide use
 5. Environmental impacts
 6. Health impacts
@@ -72,6 +75,7 @@ A static website in `docs/`, served by GitHub Pages.
 - Responsive, accessible (semantic HTML, sufficient contrast, alt text), print-friendly
 - Last-updated date shown on the page
 - Charts, if any, are inline SVG with a text alternative
+- Available in English and Dutch, with a clearly visible language button on every page to switch between the two. Implemented as two static pages (`docs/index.html` in English, `docs/nl/index.html` in Dutch) linked to each other, so it works without JavaScript and when printed. The Dutch text is a faithful translation of the English text; neither version contains facts the other lacks.
 
 ## 8. Workflow and acceptance criteria
 
