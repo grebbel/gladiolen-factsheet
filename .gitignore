@@ -9,3 +9,6 @@ Images/
 .DS_Store
 ~$*
 *.code-workspace
+
+# Private notes of the project owner (not published)
+private/

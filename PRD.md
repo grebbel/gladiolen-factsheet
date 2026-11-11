@@ -37,6 +37,9 @@ Design consequence: a **plain-language summary at the top**, with progressively 
 5. What is known about health effects and exposure for workers, residents and consumers?
 6. What regulations apply, and how are they enforced?
 7. Where is the evidence thin, conflicting or absent?
+8. What are the commonly used pesticides for Soil disinfection? 
+9. What are the commonly used pesticides on Iridaceae during growth? 
+10. Pesticide use per hectare decreased. This can be due to the fact figures of soil disinfection are not counted. Is it also possible that the active ingredients of pesticides got more concentrated and toxic? 
 
 ## 5. Source requirements
 

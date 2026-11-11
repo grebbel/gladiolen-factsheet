@@ -85,12 +85,34 @@ Source ID in [[source-overview]]: S12. Official statistics. Table last modified 
 
 Values for 2012 and 2024 for these crops are in the same file.
 
+**[gladiolus] Pyrethroid and neonicotinoid insecticides** (added 11 November 2026; `data/cbs-85130NED-gladiolen-2012-2024.csv`). These are used in small amounts by weight but on a large share of the area:
+
+| Year | Substance (group) | % of farms | Area with use (ha) | % of area | Total (kg) | Dose (kg/ha treated) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2012 | Esfenvalerate (pyrethroid) | 43.4 | 635 | 57.1 | 76 | 0.1 |
+| 2012 | Deltamethrin (pyrethroid) | 51.4 | 657 | 59.0 | 17 | 0.0 |
+| 2012 | Thiacloprid (neonicotinoid) | 47.7 | 339 | 30.5 | 201 | 0.6 |
+| 2016 | Esfenvalerate | 70.8 | 691 | 74.4 | 56 | 0.1 |
+| 2016 | Deltamethrin | 33.8 | 338 | 36.4 | 4 | 0.0 |
+| 2016 | Thiacloprid | 33.3 | 230 | 24.8 | 34 | 0.1 |
+| 2016 | Imidacloprid (neonicotinoid) | 15.5 | 143 | 15.4 | 22 | 0.2 |
+| 2020 | Esfenvalerate | 54.6 | 506 | 62.3 | 26 | 0.1 |
+| 2020 | Deltamethrin | 8.8 | 60 | 7.3 | 0 | 0.0 |
+| 2020 | Thiacloprid | 20.1 | 208 | 25.6 | 37 | 0.2 |
+| 2024 (provisional) | Esfenvalerate | 46.7 | 383 | 54.8 | 24 | 0.1 |
+| 2024 (provisional) | Deltamethrin | 11.5 | 69 | 9.9 | 1 | 0.0 |
+
+- Thiacloprid and imidacloprid do not appear for gladiolus in 2024; imidacloprid appears only in 2016. Other pyrethroids (cypermethrin, lambda-cyhalothrin) and abamectin do not appear for gladiolus in any year.
+- Values of 0.0 and 0 are rounded in the CBS table.
+- Relevance: these substances weigh little, so they hardly affect total kg/ha, but they were used on a large share of the gladiolus area. Pyrethroids are the largest contributors to toxic pressure in Dutch surface water nationally ([[visser-2025-toxische-druk-bestrijdingsmiddelen]]); thiacloprid caused declines in water insects in an experiment ([[barmentlo-2021-neonicotinoid-aquatic-insects]]). Neither source is about gladiolus fields.
+
 ## Methods and limitations
 
 - CBS survey of professional arable and horticultural farms; includes work by contractors (table description).
 - kg/ha "gebruik per jaar per hectare" is per hectare of the crop; "dosering" is per treated hectare (table definitions).
 - 2024 figures are provisional.
 - **Soil disinfection appears not to be covered.** The substance list includes metam-sodium and dazomet, but CBS records no metam-sodium use on any crop and dazomet only once (2012, forestry and hedging plants). The table description does not mention soil disinfection. So the gladiolus totals probably exclude soil disinfection, which [[lmb-2009-voortgangsrapportage]] describes as common before gladiolus planting. Not confirmed in sources.
+  - **Update 11 November 2026:** [[cbs-2023-vergelijking-afzet-gebruik]] states that metam-sodium has been in the CBS questionnaire since 2020, that its use "was in 2020 niet meer" very high, and that in 2012 it was still "substantieel". It also says products used before and after the growing season are not always included. So: soil disinfection was not asked about in 2012 and 2016; from 2020 it was asked about, but this table records no metam-sodium use on any crop. Whether that means near-zero use or under-reporting is not found in sources.
 - Bulb and corm disinfection (dipping before planting) is not separately identified in the extract.
 - Iris, crocus and freesia: not found in this table.
 

@@ -1,6 +1,6 @@
 ---
 title: "Factsheet draft: Gladiolus and pesticides in the Netherlands"
-lastmod: 2026-11-02
+lastmod: 2026-11-11
 tags:
   - type/draft
 ---
@@ -9,21 +9,22 @@ tags:
 
 What the evidence shows about pesticide use, the environment and health.
 
-*Last updated: 2 November 2026. Draft for review.*
+*Last updated: 11 November 2026. Draft for review.*
 
 ## 1. Summary
 
-Gladiolus is a small and shrinking crop in the Netherlands. About 660 hectares of gladiolus bulbs were grown in 2026, compared with about 1,640 hectares in 2000 [1]. Official statistics show that pesticide use on gladiolus fell sharply, from about 42 kilograms of active substance per hectare in 2012 to about 8 kilograms in 2024 [2]. These figures probably do not include soil disinfection before planting, which has been common in gladiolus growing [2][3]. Most of what is known about effects on water, nature and people comes from studies of flower bulbs in general, not gladiolus. Those studies show that pesticides from bulb fields reach nearby homes, ditches and people's bodies. For the substances studied, measured levels near homes stayed below health limits, but researchers say the picture is incomplete [4][5]. Key gaps remain, especially on workers' health, effects on nature, and which products are currently allowed on gladiolus.
+Gladiolus is a small and shrinking crop in the Netherlands. About 660 hectares of gladiolus bulbs were grown in 2026, compared with about 1,640 hectares in 2000 [1]. Official statistics show that pesticide use on gladiolus fell sharply, from about 42 kilograms of active substance per hectare in 2012 to about 8 kilograms in 2024 [2]. These figures may miss some use: until 2020 CBS did not ask about soil disinfection, which was used before planting gladiolus, and use before or after the growing season is not always counted [3][19]. Fewer kilograms also do not automatically mean less harm. Nationally, the pressure of pesticides on water life has fallen on average, but one group of insecticides, the pyrethroids, now causes most of it [20]. Most of what is known about effects on water, nature and people comes from studies of flower bulbs in general, not gladiolus. Those studies show that pesticides from bulb fields reach nearby homes, ditches and people's bodies. For the substances studied, measured levels near homes stayed below health limits, but researchers say the picture is incomplete [4][5]. Key gaps remain, especially on workers' health, effects on nature near gladiolus fields, and which products are currently allowed on gladiolus.
 
 ## 2. Key findings
 
 1. **Gladiolus growing has shrunk by about 60% since 2000**, to about 660 hectares of bulbs in 2026 and about 120–170 hectares grown for cut flowers [1]. *Evidence: strong.*
-2. **Pesticide use per hectare on gladiolus fell by about 80% between 2012 and 2024**, mainly because fewer fungicides were used [2]. *Evidence: strong.* Soil disinfection is probably not included in these figures [2][3]. *Evidence: limited.*
+2. **Pesticide use per hectare on gladiolus fell by about 80% between 2012 and 2024**, mainly because fewer fungicides were used [2]. *Evidence: strong.* Some use may be missing from these figures, such as soil disinfection before 2020 and use before or after the growing season [3][19]. *Evidence: limited.*
 3. **Pesticides are still used on almost all gladiolus fields** (99.6% of the area in 2024), and the number of different active substances used rose from 23 to 34 [2]. *Evidence: strong.*
 4. **The Netherlands exports far more gladiolus corms than it imports**: about 460–760 million corms exported per year, against 2–33 million imported [6]. *Evidence: strong.*
 5. **Pesticides from bulb fields reach nearby homes and residents.** Near bulb fields, levels in outdoor air were on average about 10 times higher, and in house dust about 5 times higher, than at homes far from fields [4]. *Evidence: strong for detection; this is not gladiolus-specific.*
 6. **For the substances studied, levels did not exceed health limits**, but no worst case was measured and combined exposure to several substances was not assessed [4]. *Evidence: moderate.*
 7. **Pesticides from bulb growing exceed water-quality standards in ditches.** Experts disagree whether the farmyard or spray drift from the field is the main route [3][5][7]. *Evidence: conflicting.*
+8. **Less weight does not automatically mean less harm.** Nationally, the toxic pressure of pesticides on water life fell on average between 1997 and 2023, but one group of insecticides (pyrethroids) now causes most of it, and their effect is probably under-estimated [20]. On gladiolus, the pyrethroid esfenvalerate was used on more than half the area in every survey year, in small amounts by weight [2]. An experiment showed that another insecticide used on gladiolus until 2020, thiacloprid, can cause strong declines in water insects [24]. *Evidence: strong for the national picture and for gladiolus use; effects next to gladiolus fields were not found in the sources.*
 
 ## 3. Gladiolus and related crops in the Netherlands
 
@@ -43,6 +44,17 @@ Different statistics give different areas. The national agricultural census give
 ### Where it is grown
 
 Unlike tulips and hyacinths, which are concentrated in a few regions, gladiolus is grown across the country [9]. In a recent year (not specified by the source), the largest share of the gladiolus area was in the CBS agricultural region Zuidelijk Veehouderijgebied (27%), followed by Veenkoloniën en Oldambt (13%), Westelijk Holland (12%) and the Zuidwestelijk Akkerbouwgebied (12%) [9]. In the 2000s, reports placed gladiolus mainly in Limburg, Noord-Brabant, the south-west and the IJsselmeerpolders [3][8]. *Evidence: moderate.*
+
+### How gladiolus corms are treated
+
+Gladiolus corms are dipped in fungicides before planting, against Fusarium rot, grey mould and dry rot [21].
+
+- Until its approval ended, thiophanate-methyl was allowed for this dip [21].
+- In late 2020, the national inspectorate (NVWA) listed the products then allowed as alternatives for dipping gladiolus corms. These included captan, folpet, prochloraz, prothioconazole, fludioxonil, pyrimethanil, boscalid and pyraclostrobin, and a biological product [21].
+- Folpet and captan were among the five substances used most by weight on gladiolus in 2024 [2]. The statistics do not say whether they were used as a dip or a spray.
+- The same list names non-chemical measures: crop rotation, healthy planting material, hot-water treatment of young corms, and flooding or biological soil disinfection of infested fields [21].
+
+*Evidence: moderate. This is a list of products allowed in 2020, not of what growers actually used.* A current list was not found in the sources.
 
 ### Related crops in the iris family
 
@@ -68,6 +80,8 @@ Gladiolus belongs to the iris family (*Iridaceae*). Because gladiolus-specific d
 - **Active substance**: the ingredient in a pesticide that acts against the pest, disease or weed.
 - **Fungicides** act against fungal diseases, **herbicides** against weeds, and **insecticides** against insects.
 - **Soil disinfection**: treating the soil before planting to kill nematodes (tiny worms) and other soil pests.
+- **Corm dipping**: soaking gladiolus corms in a bath with fungicide before planting, to protect them against fungal diseases.
+- **Toxic pressure**: an estimate of the share of water species that may be harmed by the mix of pesticides measured in the water.
 
 ### How much is used on gladiolus
 
@@ -88,7 +102,15 @@ Statistics Netherlands (CBS) surveyed pesticide use on gladiolus in 2012, 2016, 
 
 *Evidence: strong.*
 
-**Two cautions.** First, the CBS figures probably leave out soil disinfection: CBS records no use of the main soil disinfectant, metam-sodium, on any crop [2]. A 2007 sector report described soil disinfection before planting gladiolus, mainly in Limburg and Noord-Brabant, after other products against soil pests disappeared [3]. In 2007 the bulb sector as a whole used on average 50 kg per hectare of metam-sodium on 3,457 hectares [3]. Current practice was not found in the sources. *Evidence: limited.* Second, less weight does not mean less harm. The statistics do not measure how toxic the substances are.
+**Two cautions.** First, the CBS figures may miss some use.
+
+- A 2007 sector report described soil disinfection with metam-sodium before planting gladiolus, mainly in Limburg and Noord-Brabant, against nematodes that spread a plant virus [3]. In 2007 the bulb sector as a whole used on average 50 kg per hectare of metam-sodium on 3,457 hectares [3].
+- CBS only added metam-sodium to its survey in 2020. It says use was still substantial in 2012 and no longer very high in 2020 [19]. The CBS crop table records no metam-sodium on any crop [2].
+- CBS also says that products used before or after the growing season are not always counted, and that glyphosate used on a catch crop or green manure (a crop grown to protect or improve the soil) is not asked about separately [19].
+
+How much this affects the gladiolus figures was not found in the sources. Whether soil disinfection is still used for gladiolus today was not found either. *Evidence: limited.*
+
+Second, the statistics count kilograms of active substance. They do not show how toxic the substances are. See "Fewer kilograms, less harm?" below.
 
 ### Which substances are used
 
@@ -100,12 +122,26 @@ Statistics Netherlands (CBS) surveyed pesticide use on gladiolus in 2012, 2016, 
 
 Around 2005, spraying in gladiolus was aimed mainly at the fungal disease *Botrytis gladioli* and at thrips (small insects), usually every week from about June into November [8]. *Evidence: limited.* A model study estimated that adjusting the spray to the size of the crop could cut use by about 35% [8]. *Evidence: limited; not tested in practice.*
 
-Several substances once used in bulb growing are no longer allowed, including carbendazim for bulbs (2003), aldicarb (2007), pirimiphos-methyl for bulbs (2014), mancozeb (2021), thiophanate-methyl (2023) and oxamyl (2023) [3][5][10]. *Evidence: moderate.*
+Several substances once used in bulb growing are no longer allowed, including carbendazim for bulbs (2003), aldicarb (2007), pirimiphos-methyl for bulbs (2014), mancozeb (2021), thiophanate-methyl and oxamyl (2023) [3][5][10]. *Evidence: moderate.* Sources disagree on when thiophanate-methyl ended: an environmental organisation gives 2023 [10], while the NVWA states that EU approval expired on 31 October 2020, with a final use date of 19 October 2021 [21]. *Evidence: conflicting.*
 
 ### Related crops
 
 - **Iris:** about 27–35 kg per hectare in 1995–2000, read from a chart [8]. Current figures were not found in the sources. *Evidence: limited.*
+- **Crocus:** an environmental organisation bought four batches of crocus bulbs in shops in 2021. Each carried residues of 7 or 8 substances, mostly fungicides; one also contained the insecticide imidacloprid [22]. *Evidence: limited (small sample; finding a residue does not show harm).*
 - **Freesia (under glass):** thrips is hard to control and few chemical products are available. In one greenhouse in 2009, biological control failed and broad-spectrum insecticides were used [11]. *Evidence: limited.*
+
+### Fewer kilograms, less harm?
+
+Some substances do more damage per kilogram than others. A fall in kilograms therefore does not automatically mean a fall in harm. A product being "more concentrated" does not lower the figures either, because CBS counts the active substance, not the product.
+
+There are no figures on the toxicity of pesticides used on gladiolus in the sources. The best available national evidence is on water:
+
+- Between 1997 and 2023, the toxic pressure of pesticides on water life in the Netherlands fell on average [20].
+- At the same time, a group of insecticides called synthetic pyrethroids rose to cause most of the toxic pressure. Their use has increased. Their water-quality standards are lower than what routine water tests can measure, so their effect is probably under-estimated [20].
+- Newer substances often lack toxicity data. The researchers warn that part of the fall may therefore not be real [20].
+- An environmental organisation argues that the use of the most toxic insecticides has increased nationally [10].
+
+*Evidence: strong for the national water picture; conflicting on the overall trend in harm; not found in the sources for gladiolus.*
 
 ### Residues on flowers
 
@@ -118,6 +154,8 @@ No study in the sources tested gladioli for residues. A 2026 survey by an enviro
 In bulb-growing areas, 13–19% of water samples in 2001–2007 contained one of four substances of concern above the maximum permissible risk level (MTR, a water-quality standard). Water quality had improved since 1995, but progress had stalled [3]. *Evidence: moderate; data up to 2007.*
 
 A level above a water standard means there is a risk to water life. It does not by itself show that harm has occurred.
+
+Across the Netherlands, the toxic pressure on water life from pesticides fell on average between 1997 and 2023. The mix of substances in water can be highly toxic even when each substance on its own stays below its standard. Synthetic pyrethroid insecticides now make the largest contribution [20]. *Evidence: strong for the national picture; not specific to bulb or gladiolus areas.*
 
 ### How pesticides reach water: experts disagree
 
@@ -133,7 +171,20 @@ Carbendazim stayed in the environment after it was withdrawn for bulbs, because 
 
 ### What is not known
 
-The sources contain no measurements of effects on soil life, bees and other pollinators, birds or water life near gladiolus or other iris-family crops. No recent water-quality data for gladiolus areas were found.
+The sources contain no measurements of effects on soil life, bees and other pollinators, birds or water life near gladiolus or other iris-family crops. No recent water-quality data for gladiolus areas were found. No measurements of pesticides in nature areas or groundwater next to gladiolus fields were found.
+
+### Insect decline and pesticides
+
+**Insect decline is well documented.** In a forest on the Veluwe, the number of hoverflies fell by 80% between 1982 and 2021, and the number of species by 44%; the forest itself did not change [23]. In 63 nature reserves in Germany, most of them surrounded by farmland, the weight of flying insects caught fell by 76% between 1989 and 2016 [27]. Both studies name pesticides as one possible cause among others, but neither measured them [23][27]. *Evidence: strong for the declines at these sites. These studies did not measure pesticides, so they can neither confirm nor rule out a role for them.*
+
+**Can pesticides cause insect decline?** Studies of a different kind address this:
+
+- **Experiment.** In 36 test ditches in Leiden, researchers added the insecticide thiacloprid (a neonicotinoid) at concentrations also found in surface water. All five main groups of water insects declined strongly. At the highest concentration, almost no insects of most groups emerged. The researchers conclude this shows a causal link between neonicotinoids and insect decline [24]. *Evidence: strong for this substance; one experiment, one substance.*
+- **Field data.** Dutch monitoring data from 1998 and 2003–2009 showed fewer water animals where the insecticide imidacloprid was higher in the water. Numbers dropped sharply between 13 and 67 nanograms per litre [25]. The authors noted especially high levels in areas with greenhouses and bulbs [25].
+- **Disagreement.** Other researchers dispute that imidacloprid alone explains this, because many pesticides occur together; up to 35 exceeded their standard in a single sample. They agree that imidacloprid is a significant risk to water life, and conclude that pesticides together contribute to the stress [26]. *Evidence: conflicting on imidacloprid alone; both sides agree on the risk.*
+- **Nature areas.** Pesticides and other substances were found in plants in four Natura 2000 areas in Drenthe. The national public health institute (RIVM) concluded that their origin and the risk to insects could not be determined from these measurements, and called for more research [28]. *Evidence: limited (detection only).*
+
+**Link to gladiolus.** Some of these insecticides were used on gladiolus. The pyrethroid esfenvalerate was used on 55–74% of the gladiolus area in every survey year from 2012 to 2024, although only 24–76 kg in total. Thiacloprid was used on 25–31% of the area from 2012 to 2020, and imidacloprid on 15% in 2016 [2]. Because these substances are applied in small amounts, they barely show in the kilograms per hectare. *Evidence: strong for use (official statistics).* No study in the sources measured these substances, or effects on insects, next to gladiolus fields.
 
 ## 6. Health impacts
 
@@ -193,8 +244,8 @@ No study in the sources measured the exposure or health of gladiolus or freesia 
 
 **Not found in the sources:**
 
-1. Which products are currently allowed on gladiolus, iris, crocus and freesia.
-2. How much soil and corm disinfection is used in gladiolus growing today.
+1. Which products are currently allowed on gladiolus, iris, crocus and freesia (the latest list found is from 2020, for corm dipping only).
+2. Whether and how soil disinfection is used in gladiolus growing today, and how much corm dipping adds to total use.
 3. Current pesticide use on iris, crocus and freesia.
 4. Where imported gladiolus corms and flowers come from.
 5. Pesticide residues on cut gladioli or traded corms.
@@ -202,11 +253,16 @@ No study in the sources measured the exposure or health of gladiolus or freesia 
 7. Exposure and health of gladiolus and freesia workers.
 8. Health studies that look at gladiolus separately, and the combined effect of several pesticides.
 9. Recent inspection results for bulb or gladiolus growing.
+10. How toxic the pesticides used on gladiolus are, taken together, and how this has changed.
+11. Pesticides in nature areas or groundwater next to gladiolus fields.
+12. Measured effects on insects of the insecticides used on gladiolus (esfenvalerate, thiacloprid), in the field next to gladiolus.
 
 **Main uncertainties:**
 
 - Evidence on the environment and health comes from flower bulbs in general. The link to gladiolus rests on shared substances and practices.
-- The official use figures probably leave out soil disinfection.
+- The official use figures may miss soil disinfection (before 2020) and use before or after the growing season.
+- Sources disagree on the overall trend in harm from pesticides, and on when thiophanate-methyl was withdrawn.
+- Insect declines are well documented, but the studies that document them did not measure pesticides. Evidence that pesticides can cause declines comes from an experiment and from field data whose interpretation is disputed.
 - Sources disagree on the main route by which pesticides reach water, and on the role of municipalities.
 - Figures from the 1990s differ between sources, and some were read from charts.
 
@@ -231,6 +287,18 @@ No study in the sources measured the exposure or health of gladiolus or freesia 
 17. Natuur & Milieu, ChemLegal, IJzer Advocaten, FLO Legal, Urgenda (no date, 2024 or later). *Gemeentelijke handleiding Regulering bestrijdingsmiddelen*. Copy held by the author; not available online. — note: [[natuur-milieu-nd-gemeentelijke-handleiding]]
 18. Gemeente Berg en Dal (2026). *Schriftelijke vragen 2026-V030 Regulering bestrijdingsmiddelen in de landbouw, met antwoord van het college*. Copy held by the author; not available online. — note: [[berg-en-dal-2026-raadsvragen-bestrijdingsmiddelen]]
 
+19. CBS (2023). *Vergelijking afzet en gebruik gewasbeschermingsmiddelen*. Background note, 12 June 2023. <https://www.cbs.nl/nl-nl/achtergrond/2023/23/vergelijking-afzet-en-gebruik-gewasbeschermingsmiddelen-2012-2020>. Accessed 11 November 2026. — note: [[cbs-2023-vergelijking-afzet-gebruik]]
+20. Visser, M.D., Posthuma, L., van 't Zelfde, M., Slootweg, J., Lahr, J. (2025). *De Ecologische Risico's van Bestrijdingsmiddelen in Beeld. Een Toxische Druk Indicator in de Bestrijdingsmiddelenatlas Oppervlaktewater*. CML Leiden University / RIVM. <https://bmastatic.blob.core.windows.net/rapportage/Toxischedruk_rapportage_FINAL2025.pdf> — note: [[visser-2025-toxische-druk-bestrijdingsmiddelen]]
+21. NVWA (2020). *Inventarisatie wegval thiofanaat-methyl: Alternatieve middelen en maatregelen*. For the Ministry of Agriculture, Nature and Food Quality. <https://zoek.officielebekendmakingen.nl/blg-959545.pdf> — note: [[nvwa-2020-wegval-thiofanaat-methyl]]
+22. Mantingh, M. (2021). *Gif in bloembollen – een valstrik voor insecten*. Pesticide Action Network Netherlands. <https://media-new.imu.nl/storage/bijenstichting.nl/522/test-bloembollen-bestrijdingsmiddelen-2021.pdf> — note: [[mantingh-2021-gif-in-bloembollen]]
+23. Barendregt, A., Zeegers, T., van Steenis, W., Jongejans, E. (2022). Forest hoverfly community collapse: abundance and species richness drop over four decades. *Insect Conservation and Diversity* 15(5), 510–521. <https://doi.org/10.1111/icad.12577> — note: [[barendregt-2022-forest-hoverfly-decline]]
+
+24. Barmentlo, S.H., Schrama, M., de Snoo, G.R., van Bodegom, P.M., van Nieuwenhuijzen, A., Vijver, M.G. (2021). Experimental evidence for neonicotinoid driven decline in aquatic emerging insects. *PNAS* 118(44), e2105692118. <https://doi.org/10.1073/pnas.2105692118> — note: [[barmentlo-2021-neonicotinoid-aquatic-insects]]
+25. Van Dijk, T.C., Van Staalduinen, M.A., Van der Sluijs, J.P. (2013). Macro-invertebrate decline in surface water polluted with imidacloprid. *PLOS ONE* 8(5), e62374. <https://doi.org/10.1371/journal.pone.0062374> — note: [[van-dijk-2013-imidacloprid-macroinvertebrates]]
+26. Vijver, M.G., van den Brink, P.J. (2014). Macro-invertebrate decline in surface water polluted with imidacloprid: a rebuttal and some new analyses. *PLOS ONE* 9(2), e89837. <https://doi.org/10.1371/journal.pone.0089837> — note: [[vijver-2014-imidacloprid-rebuttal]]
+27. Hallmann, C.A., Sorg, M., Jongejans, E., et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10), e0185809. <https://doi.org/10.1371/journal.pone.0185809> — note: [[hallmann-2017-flying-insect-biomass]]
+28. Montforts, M., Smit, E. (2020). *Duiding van de herkomst van stoffen aangetroffen in Drentse Natura 2000 gebieden*. RIVM memo, 19 August 2020. <https://rivm.nl/sites/default/files/2020-10/Bijlage%20memo%20Duiding%20MW%20Drenthe.pdf> — note: [[rivm-2020-duiding-stoffen-drentse-natura2000]]
+
 ## 10. About this factsheet
 
 **What it is.** An independent personal investigation into pesticide use in gladiolus growing in the Netherlands and its effects on the environment and health. It has no institutional affiliation.
@@ -248,4 +316,4 @@ No study in the sources measured the exposure or health of gladiolus or freesia 
 
 **Licence.** This factsheet is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-**Last updated:** 2 November 2026.
+**Last updated:** 11 November 2026.

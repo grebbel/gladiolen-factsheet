@@ -1,11 +1,11 @@
 ---
 title: "Synthesis"
-lastmod: 2026-11-02
+lastmod: 2026-11-11
 tags:
   - type/synthesis
 ---
 
-Phase 3 of the [[source-overview]] workflow, updated after the scope was broadened to related crops in the iris family (Iridaceae). Draws only on the source notes S1–S19. Every finding links to the notes it rests on; page, table or file references are in those notes.
+Phase 3 of the [[source-overview]] workflow, updated after the scope was broadened to related crops in the iris family (Iridaceae). Draws only on the source notes S1–S24 and, where stated, the owner's own observation O1. Updated on 11 November 2026 for research questions 8–10 (soil disinfection, substances used during growth, and whether falling kilograms mean less harm). Every finding links to the notes it rests on; page, table or file references are in those notes.
 
 ## How to read this
 
@@ -85,9 +85,12 @@ Source: [[cbs-2025-85130NED-gewasbescherming-per-gewas]]. Strength: **strong**.
 Sources: [[cbs-2025-85130NED-gewasbescherming-per-gewas]], [[pan-nl-2025-analyse-cbs-cijfers]].
 Strength: **strong** for which substances were used and how much. Less weight does not mean lower hazard; the statistics do not measure toxicity.
 
-**3.4 [gladiolus] Soil disinfection is probably not included in the CBS figures, but is used before planting gladiolus.** CBS records no use of metam-sodium on any crop, although it is in its substance list. S7 reports that soil was disinfected before gladiolus planting against nematodes, and that this increased after 2005, "mainly" in gladiolus growing in Limburg and Noord-Brabant; in 2007 the bulb sector used on average 50 kg/ha of metam-sodium on 3,457 ha.
-Sources: [[cbs-2025-85130NED-gewasbescherming-per-gewas]], [[lmb-2009-voortgangsrapportage]].
-Strength: **limited** (CBS coverage not stated by CBS; soil disinfection data from one sector report, 2007). Current extent of soil disinfection for gladiolus: not found in sources.
+**3.4 [gladiolus] Soil disinfection (Q8): metam-sodium was used before planting gladiolus; it was not counted by CBS in 2012 and 2016, and recorded as zero from 2020.** S7 reports that soil was disinfected with metam-sodium before gladiolus planting against nematodes (Trichodorus, which spread tobacco rattle virus), and that this increased after 2005, "mainly" in gladiolus growing in Limburg and Noord-Brabant; in 2007 the bulb sector used on average 50 kg/ha of metam-sodium on 3,457 ha. CBS states that metam-sodium has been in its questionnaire only since 2020; use was "substantial" in 2012 and no longer very high in 2020. The crop table records no metam-sodium on any crop in any year.
+Sources: [[lmb-2009-voortgangsrapportage]], [[cbs-2023-vergelijking-afzet-gebruik]], [[cbs-2025-85130NED-gewasbescherming-per-gewas]].
+Strength: **limited**. Whether soil disinfection is still used for gladiolus, and with which substance, is not found in sources. NVWA (2020) lists biological soil disinfection and inundation (flooding) as preventive options against gladiolus corm diseases ([[nvwa-2020-wegval-thiofanaat-methyl]]).
+
+**3.4a The CBS use figures are known to under-count some applications.** CBS reports that use figures cover about 50% of sales. Products used before and after the growing season are "not always" included; with tight rotations it can be unclear to which crop use is assigned; glyphosate on a catch crop or green manure is not asked about separately. How much this affects gladiolus is not found in sources.
+Source: [[cbs-2023-vergelijking-afzet-gebruik]]. Strength: **strong** for the method (CBS on its own statistics); size of the effect for gladiolus: not found in sources.
 
 **3.5 [gladiolus] Spraying targets mainly the fungal disease "vuur" (*Botrytis gladioli*) and thrips, usually weekly, from about June into November** (around 2005).
 Source: [[molema-nd-gewasafhankelijk-toedienen-gladiolen]]. Strength: **limited** (single source).
@@ -101,6 +104,9 @@ Source: [[cbs-2025-85130NED-gewasbescherming-per-gewas]]. Strength: **strong**.
 **3.8 [gladiolus] Spraying adapted to the crop could reduce use by about 35% over a season, according to a model** based on one trial field in 2002.
 Source: [[molema-nd-gewasafhankelijk-toedienen-gladiolen]]. Strength: **limited** (not tested in practice).
 
+**3.8a [gladiolus] Gladiolus corms are dipped in fungicides against Fusarium rot, grey mould and dry rot (Q9).** Until its approval ended, thiophanate-methyl was authorised for this. At the end of October 2020 the authorised alternatives for dipping were *Bacillus amyloliquefaciens* (biological), captan, boscalid / kresoxim-methyl, pyrimethanil, folpet / pyraclostrobin, folpet, prothioconazole, folpet / prochloraz, fludioxonil / folpet and prochloraz; for soil treatment fluxapyroxad and *Trichoderma harzianum* (biological). Fludioxonil and prochloraz are marked as candidates for substitution. Non-chemical measures listed include crop rotation, healthy planting material and hot-water treatment of cormlets.
+Source: [[nvwa-2020-wegval-thiofanaat-methyl]]. Strength: **moderate** (government inspectorate; authorised options in 2020, not actual use). Folpet and captan were among the five largest substances by weight on gladiolus in 2024 ([[cbs-2025-85130NED-gewasbescherming-per-gewas]]); whether they were used as dips or sprays is not stated.
+
 ### Related crops
 
 **3.9 [related crop: iris] Pesticide use on irises was about 27–35 kg/ha in 1995–2000** (read from a chart). Current use on iris and crocus: not found in sources (not separate in CBS).
@@ -109,23 +115,33 @@ Source: [[molema-nd-gewasafhankelijk-toedienen-gladiolen]]. Strength: **limited*
 **3.10 [related crop: freesia, greenhouse] Thrips is hard to control in freesia; the range of chemical products is narrow, with a high risk of resistance.** In one commercial greenhouse in 2009, biological control failed and broad-spectrum insecticides were used (spinosad, deltamethrin, methiocarb, thiamethoxam).
 Source: [[van-der-staaij-2010-trips-freesia]]. Strength: **limited** (one case, 2009). Current use on freesia: not found in sources.
 
+**3.10a [related crop: crocus] Crocus bulbs sold in shops in 2021 carried residues of 7–8 substances each, mostly fungicides.** Four samples; on average 1.40 mg/kg. Substances included carbendazim, thiophanate-methyl, prochloraz, prothioconazole, pyraclostrobin and fluopyram; one sample contained the neonicotinoid insecticide imidacloprid.
+Source: [[mantingh-2021-gif-in-bloembollen]]. Strength: **limited** (NGO; 4 crocus samples; detection only). Consistent with the dipping substances in 3.8a, but residues do not show when or how a substance was applied.
+
 ### Flower bulbs in general
 
 **3.11 The bulb sector is among the most intensive pesticide users.** Use per hectare in bulbs was the highest of all sectors after mushrooms (1995–2000), and 102 kg/ha including soil disinfection in 2007.
 Sources: [[molema-nd-gewasafhankelijk-toedienen-gladiolen]], [[lmb-2009-voortgangsrapportage]].
 Strength: **moderate** (old). Not comparable with the CBS crop figures, which probably exclude soil disinfection.
 
-**3.12 Several bulb-related substances have been withdrawn:** carbendazim (for bulbs, from 1 March 2003), aldicarb (1 July 2007), pirimiphos-methyl (for bulbs, from April 2014), mancozeb (2021), thiophanate-methyl (2023) and oxamyl (October 2023).
+**3.12 Several bulb-related substances have been withdrawn:** carbendazim (for bulbs, from 1 March 2003), aldicarb (1 July 2007), pirimiphos-methyl (for bulbs, from April 2014), mancozeb (2021), thiophanate-methyl (date conflicts, see below) and oxamyl (October 2023).
 Sources: [[lmb-2009-voortgangsrapportage]], [[stowa-2022-erfafspoeling-spuitdrift]], [[pan-nl-2025-analyse-cbs-cijfers]].
-Strength: **moderate**.
+Strength: **moderate**. **Thiophanate-methyl date conflicts:** PAN-NL (2025) gives 2023; NVWA (2020) states that EU approval expired on 31 October 2020 with a use-up period to 19 October 2021 at the latest, which PAN (2021) repeats ([[nvwa-2020-wegval-thiofanaat-methyl]], [[mantingh-2021-gif-in-bloembollen]]).
 
 **3.13 National use (all crops) fell by almost 22% between 2020 and 2024**, mainly because of the mancozeb ban and less paraffin oil. PAN-NL argues that more toxic, low-dose insecticides and PFAS pesticides were used on a larger area; this is a hazard argument.
 Source: [[pan-nl-2025-analyse-cbs-cijfers]]. Strength: **limited** (NGO reanalysis; the gladiolus figures in 3.1 come directly from CBS).
 
+**3.13a Does less weight mean less harm? (Q10)** Two kinds of evidence bear on this; neither is gladiolus-specific.
+- *Counting:* part of the use may be missed in the CBS figures (3.4, 3.4a). Whether this explains part of the fall for gladiolus: not found in sources.
+- *Toxicity:* the national toxic pressure on water life (the share of aquatic species potentially affected by the measured mixture of pesticides) fell on average over 1997–2023. At the same time, synthetic pyrethroid insecticides now make the largest contribution. Their use increased, and their reporting limits are above the water-quality standards, so routine monitoring cannot show whether the standards are met. Newer substances without toxicity data may make the real toxic pressure higher than calculated; the authors warn that part of the decrease may be a false trend.
+- The idea that products became "more concentrated" does not change the CBS figures, which count kilograms of active substance, not of product.
+Sources: [[cbs-2023-vergelijking-afzet-gebruik]], [[visser-2025-toxische-druk-bestrijdingsmiddelen]], [[pan-nl-2025-analyse-cbs-cijfers]], [[cbs-2025-85130NED-gewasbescherming-per-gewas]].
+Strength: **conflicting** at national level (average toxic pressure down; most potent insecticides up, with known under-estimation). For gladiolus: not found in sources. Gladiolus insecticide use fell from 2.6 to 0.4 kg/ha (3.2); which insecticides were used is in [[cbs-2025-85130NED-gewasbescherming-per-gewas]].
+
 **3.14 Residues on cut gladioli: not found in sources.** The one residue survey (17 bouquets, 2026) sampled no gladioli.
 Source: [[mantingh-2026-pesticiden-in-boeketten]].
 
-**Gaps:** current authorised products for gladiolus, iris, crocus and freesia (Ctgb); current soil and corm disinfection practice for gladiolus; current use on iris, crocus and freesia.
+**Gaps:** current authorised products for gladiolus, iris, crocus and freesia (Ctgb; the latest list found is from 2020, for corm dipping only); whether and how soil disinfection is used for gladiolus today; how much corm dipping contributes to total use; current use on iris, crocus and freesia; toxicity-weighted use for gladiolus.
 
 ## 4. Environmental effects
 
@@ -148,10 +164,33 @@ Strength: **moderate** (calculated, not measured in ditches; standard assumption
 Sources: [[lmb-2009-voortgangsrapportage]], [[figueiredo-2021-resident-exposure-protocol]], [[pan-nl-2025-analyse-cbs-cijfers]].
 Strength: **moderate**.
 
+**4.4a Nationally, the toxic pressure of pesticides on water life has fallen on average since 1997, but synthetic pyrethroid insecticides now dominate it, and the toxicity of a mixture can be high even when no single substance exceeds its standard.** The authors consider their estimate a lower bound: real toxic pressure will rarely be lower than calculated.
+Source: [[visser-2025-toxische-druk-bestrijdingsmiddelen]]. Strength: **strong** for the national picture (CML and RIVM, peer-reviewed); not crop- or region-specific.
+
+**4.4b Context for non-target insects: in a Veluwe forest, hoverflies fell by 80% in number and 44% in species (1979/1982–2021).** The forest itself did not change and has no intensive agriculture nearby. The authors name nitrogen, pesticides arriving through the air and climate change as possible causes, but measured none of them.
+Source: [[barendregt-2022-forest-hoverfly-decline]]. Strength: **strong** for the decline at this site. The study did not measure pesticides, so it neither supports nor rules out a pesticide effect. Not related to gladiolus or bulb growing.
+
+**4.4c Insect decline is also documented in German nature reserves:** flying-insect biomass fell 76% in 63 protected areas (1989–2016), 94% of them surrounded by farmland. The authors call agricultural intensification, including pesticide use, a plausible cause, but did not measure it; they consider landscape and climate change unlikely explanations in these areas.
+Source: [[hallmann-2017-flying-insect-biomass]]. Strength: **strong** for the decline; the study neither supports nor rules out a pesticide effect. Not Netherlands; context only.
+
+**4.4d Can pesticides cause insect decline? An experiment shows that one neonicotinoid can.** Thiacloprid at concentrations found in surface water caused strong declines in all five main orders of emerging water insects in 36 Dutch test ditches; the authors conclude a causal link.
+Source: [[barmentlo-2021-neonicotinoid-aquatic-insects]]. Strength: **strong** for thiacloprid (controlled experiment); one substance, one site, no mixtures.
+
+**4.4e Field data link imidacloprid to fewer water invertebrates in the Netherlands, but whether imidacloprid alone explains it is disputed.** Abundance dropped sharply between 13 and 67 ng/L (1998, 2003–2009), with high concentrations noted in greenhouse and bulb areas. A rebuttal argues co-occurring pesticides were ignored (up to 35 above standard in one sample), while agreeing imidacloprid is a significant ecological risk and that pesticides together contribute.
+Sources: [[van-dijk-2013-imidacloprid-macroinvertebrates]], [[vijver-2014-imidacloprid-rebuttal]]. Strength: **conflicting** on imidacloprid alone; agreement on risk.
+
+**4.4f [gladiolus] Insecticides of the groups implicated above were used on gladiolus:** esfenvalerate (pyrethroid) on 55–74% of the area in 2012–2024 (24–76 kg in total); thiacloprid on 25–31% in 2012–2020; imidacloprid on 15% in 2016. They weigh little and barely affect kg/ha.
+Source: [[cbs-2025-85130NED-gewasbescherming-per-gewas]]. Strength: **strong** for use. Effects next to gladiolus fields: not found in sources.
+
+**4.4g Pesticides are found in plants in nature areas** (four Natura 2000 areas in Drenthe, NGO study as assessed by RIVM); origin and risk to insects could not be determined.
+Source: [[rivm-2020-duiding-stoffen-drentse-natura2000]]. Strength: **limited** (detection only; original measurements not checkable).
+
 **4.5 Context: 53% of Dutch surface water contained too many pesticides in 2016–2021** (European Environment Agency, as cited by S9).
 Source: [[natuur-milieu-nd-gemeentelijke-handleiding]]. Strength: **limited** (secondary; all agriculture).
 
-**Gaps:** measured effects on soil life, pollinators, birds or aquatic organisms near gladiolus or other Iridaceae; measured water quality near gladiolus fields; greenhouse emissions from freesia (S18 notes greenhouses were handled in a separate project).
+**Own observation (O1, not used as a finding):** the owner reports herbicide use (according to a grower, glyphosate) on a gladiolus field next to a Natura 2000 area that is also a groundwater protection area, and on a second field next to a nature area; no measurements ([[ten-hove-2026-observaties-gladiolenteelt]]). Open questions are recorded in that note.
+
+**Gaps:** measured effects on soil life, pollinators, birds or aquatic organisms near gladiolus or other Iridaceae; pesticides in nature areas or groundwater next to gladiolus fields; measured water quality near gladiolus fields; greenhouse emissions from freesia (S18 notes greenhouses were handled in a separate project).
 
 ## 5. Health effects and exposure
 
@@ -224,7 +263,7 @@ Source: [[stowa-2022-erfafspoeling-spuitdrift]]. Strength: **limited** (personal
 ### Absent (not found in sources)
 
 1. Current list of authorised products for gladiolus, iris, crocus and freesia.
-2. Current extent of soil and corm disinfection in gladiolus growing (probably not in CBS figures).
+2. Whether and how soil disinfection is used in gladiolus growing today (not counted by CBS before 2020; recorded as zero since).
 3. Current pesticide use on iris, crocus and freesia.
 4. Countries of origin of imported gladiolus corms and cut flowers; trade in iris, crocus and freesia.
 5. Residues on cut gladioli or traded corms.
@@ -232,6 +271,7 @@ Source: [[stowa-2022-erfafspoeling-spuitdrift]]. Strength: **limited** (personal
 7. Exposure and health of gladiolus and freesia growers and workers.
 8. Health studies that separate gladiolus from other bulbs; risks of combined exposure.
 9. Recent enforcement data for bulb or gladiolus growing.
+10. A toxicity-weighted measure of pesticide use for gladiolus or bulbs (only national water data found).
 
 ### Conflicting or not comparable
 
@@ -243,6 +283,10 @@ Source: [[stowa-2022-erfafspoeling-spuitdrift]]. Strength: **limited** (personal
 | Use per hectare | CBS crop figures, probably without soil disinfection ([[cbs-2025-85130NED-gewasbescherming-per-gewas]]) | bulb sector 102 kg/ha with soil disinfection, 2007 ([[lmb-2009-voortgangsrapportage]]) | Not comparable |
 | Chlorpropham exposure | found in most urine samples ([[montforts-2019-bestrijdingsmiddelen-omwonenden]]) | not found in wastewater ([[bijlsma-2025-wastewater-surveillance-bulb-fields]]) | Different methods and years |
 | Size of exposure near fields | about 10× (air) and 5× (dust), risk limits not exceeded ([[montforts-2019-bestrijdingsmiddelen-omwonenden]]) | "considerably increased", "chronic" ([[natuur-milieu-nd-gemeentelijke-handleiding]]) | Cite RIVM figures |
+| Thiophanate-methyl end date | 2023 ([[pan-nl-2025-analyse-cbs-cijfers]]) | approval expired 31 October 2020, use-up to 19 October 2021 ([[nvwa-2020-wegval-thiofanaat-methyl]], [[mantingh-2021-gif-in-bloembollen]]) | NVWA is the primary source |
+| Soil disinfection in CBS figures | not asked before 2020; asked since ([[cbs-2023-vergelijking-afzet-gebruik]]) | no metam-sodium recorded on any crop in any year ([[cbs-2025-85130NED-gewasbescherming-per-gewas]]) | Near-zero use or under-reporting: not found |
+| Trend in harm from pesticides | most toxic insecticides and PFAS pesticides up ([[pan-nl-2025-analyse-cbs-cijfers]]) | average toxic pressure in water down, but pyrethroids dominant and under-estimated ([[visser-2025-toxische-druk-bestrijdingsmiddelen]]) | Different measures (use vs. measured water quality) |
+| Imidacloprid and water invertebrates | imidacloprid prime suspect ([[van-dijk-2013-imidacloprid-macroinvertebrates]]) | many pesticides together; imidacloprid a significant risk but not the only cause ([[vijver-2014-imidacloprid-rebuttal]]) | Method dispute; both agree on toxicity |
 | Municipal role | room and duty to regulate ([[natuur-milieu-nd-gemeentelijke-handleiding]]) | primarily national; no local rules planned ([[berg-en-dal-2026-raadsvragen-bestrijdingsmiddelen]]) | Policy and legal interpretation |
 | Share of homes near fields | about 27% of all homes within 250 m ([[figueiredo-2021-resident-exposure-protocol]]) | about 30% of rural population within 250 m ([[montforts-2019-bestrijdingsmiddelen-omwonenden]]) | Different measures |
 
@@ -250,5 +294,5 @@ Source: [[stowa-2022-erfafspoeling-spuitdrift]]. Strength: **limited** (personal
 
 - Environmental and health evidence is for flower bulbs in general; the link to gladiolus rests only on shared substances and practices.
 - Historical gladiolus use data (1995) and several figures are read from charts (S5, S7).
-- Several sources are advocacy (S8, S9, S10), trade press (S17) or secondary citations (BuRO, NVWA, EEA, court cases). Internal inconsistencies were found in S8 and S10.
+- Several sources are advocacy (S8, S9, S10, S23), trade press (S17) or secondary citations (BuRO, NVWA, EEA, court cases). Internal inconsistencies were found in S8 and S10.
 - CBS gladiolus use data cover four survey years; 2024 is provisional.
